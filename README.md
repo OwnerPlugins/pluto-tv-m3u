@@ -3,6 +3,9 @@
 # 📺 Pluto TV M3U Playlists
 
 
+![Screenshot](giphy.gif)
+
+
 This repository contains **automatically updated M3U playlists** for Pluto TV, including both **live channels** and **on‑demand movies**.  
 Playlists are generated every 6 hours and are organised by **region**.
 
