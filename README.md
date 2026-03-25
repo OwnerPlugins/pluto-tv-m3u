@@ -2,7 +2,6 @@
 
 # 📺 Pluto TV M3U Playlists
 
-
 ![Screenshot](giphy.gif)
 
 
