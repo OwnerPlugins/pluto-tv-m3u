@@ -1,6 +1,9 @@
-![](https://komarev.com/ghpvc/?username=Belfagor2005)
+<h1 align="center">📺 Pluto TV M3U Playlists</h1>
 
-# 📺 Pluto TV M3U Playlists
+![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
+[![Version](https://img.shields.io/badge/Version-1.0-blue.svg)]
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]
+[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Maintainers.md#maintainers "Donate")
 
 ![Screenshot](giphy.gif)
 
