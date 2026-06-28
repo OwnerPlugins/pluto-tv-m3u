@@ -1,7 +1,7 @@
 <h1 align="center">📺 Pluto TV M3U Playlists</h1>
 
-[![Version](https://img.shields.io/badge/Version-1.0-blue.svg)]
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]
+![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 [![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)](https://github.com/Belfagor2005)
 
